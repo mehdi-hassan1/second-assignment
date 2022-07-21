@@ -14,7 +14,7 @@ body {
 
 header {
     height: 750px;
-    background-color: #f1f1f1;
+    background-color: whitesmoke;
 }
 
 .header-info {
@@ -25,7 +25,7 @@ header {
 }
 
 .header-bg {
-    background: #1d1919;
+    background: black;
 
     position: absolute;
     width: 1321px;
@@ -41,12 +41,12 @@ header {
 .header-info h1 {
     font-size: 3.5em;
     font-weight: 700;
-    color: rgb(255, 255, 255);
+    color: rgb(160, 155, 155);
 }
 
 .header-info p {
     font-size: 1.1em;
-    color: rgb(255, 255, 255);
+    color: rgb(110, 106, 106);
 }
 
 .header-pic img {
@@ -61,18 +61,18 @@ header {
     height: 40px;
     border-radius: 10px;
     border: 0;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(134, 129, 129);
 }
 
 .button a {
     text-decoration: none;
     font-family: "Poppins", sans-serif;
-    color: red;
+    color: blue;
     font-size: 16px;
 }
 
 .button i {
-    color: red;
+    color: orangered;
 }
 
 
@@ -89,7 +89,7 @@ main {
 }
 
 .nav-button {
-    background-color: black;
+    background-color: rgb(185, 6, 6);
     height: 312px;
     width: 312px;
     border-radius: 10px;
@@ -100,8 +100,8 @@ main {
 }
 
 #blog {
-    background-color: rgb(0, 0, 0);
-    border: 2px solid #f1f1f1;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid #070707;
     color: f1f1f1;
 }
 
@@ -116,7 +116,7 @@ main {
 }
 
 .blog {
-    border: 2px solid whitesmoke;
+    border: 2px solid rgb(170, 6, 6);
     border-radius: 10px;
     font-family: "Poppins", sans-serif;
 }
@@ -134,7 +134,7 @@ main {
 .b-button {
     height: 34px;
     width: 100px;
-    border: 1px solid black;
+    border: 1px solid rgb(240, 2, 2);
     border-radius: 5px;
     font-weight: 500;
     font-family: "Poppins", sans-serif;
@@ -158,7 +158,7 @@ footer {
 }
 
 footer h1 {
-    color: #000000;
+    color: #a80000;
     text-align: center;
     justify-content: center;
     justify-items: center;
